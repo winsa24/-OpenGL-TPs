@@ -1,0 +1,6 @@
+/Users/weixiang/Downloads/TP00-Loop/build/CMakeFiles/rebuild_cache.dir
+/Users/weixiang/Downloads/TP00-Loop/build/CMakeFiles/edit_cache.dir
+/Users/weixiang/Downloads/TP00-Loop/build/CMakeFiles/tpShadow.dir
+/Users/weixiang/Downloads/TP00-Loop/build/dep/glad/CMakeFiles/rebuild_cache.dir
+/Users/weixiang/Downloads/TP00-Loop/build/dep/glad/CMakeFiles/edit_cache.dir
+/Users/weixiang/Downloads/TP00-Loop/build/dep/glad/CMakeFiles/glad.dir

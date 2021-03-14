@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/weixiang/Downloads/TP00-Loop/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/weixiang/Downloads/TP00-Loop/dep/glad/include -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -std=gnu++11 -o CMakeFiles/tpShadow.dir/src/main.cpp.o -c /Users/weixiang/Downloads/TP00-Loop/src/main.cpp",
+  "file": "/Users/weixiang/Downloads/TP00-Loop/src/main.cpp"
+},
+{
+  "directory": "/Users/weixiang/Downloads/TP00-Loop/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/weixiang/Downloads/TP00-Loop/dep/glad/include -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -std=gnu++11 -o CMakeFiles/tpShadow.dir/src/Mesh.cpp.o -c /Users/weixiang/Downloads/TP00-Loop/src/Mesh.cpp",
+  "file": "/Users/weixiang/Downloads/TP00-Loop/src/Mesh.cpp"
+},
+{
+  "directory": "/Users/weixiang/Downloads/TP00-Loop/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/weixiang/Downloads/TP00-Loop/dep/glad/include -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -std=gnu++11 -o CMakeFiles/tpShadow.dir/src/ShaderProgram.cpp.o -c /Users/weixiang/Downloads/TP00-Loop/src/ShaderProgram.cpp",
+  "file": "/Users/weixiang/Downloads/TP00-Loop/src/ShaderProgram.cpp"
+},
+{
+  "directory": "/Users/weixiang/Downloads/TP00-Loop/build/dep/glad",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/weixiang/Downloads/TP00-Loop/dep/glad/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -o CMakeFiles/glad.dir/src/glad.c.o -c /Users/weixiang/Downloads/TP00-Loop/dep/glad/src/glad.c",
+  "file": "/Users/weixiang/Downloads/TP00-Loop/dep/glad/src/glad.c"
+}
+]

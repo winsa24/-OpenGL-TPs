@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/weixiang/Downloads/CG2.0/TP03-FluidSPH/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /usr/local/include  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -std=gnu++11 -o CMakeFiles/tpSph.dir/src/main.cpp.o -c /Users/weixiang/Downloads/CG2.0/TP03-FluidSPH/src/main.cpp",
+  "file": "/Users/weixiang/Downloads/CG2.0/TP03-FluidSPH/src/main.cpp"
+}
+]

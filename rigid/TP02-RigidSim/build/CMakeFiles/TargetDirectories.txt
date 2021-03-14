@@ -1,0 +1,6 @@
+/Users/weixiang/Downloads/CG2.0/rigid/tp/TP02-RigidSim/TP02-RigidSim/build/CMakeFiles/rebuild_cache.dir
+/Users/weixiang/Downloads/CG2.0/rigid/tp/TP02-RigidSim/TP02-RigidSim/build/CMakeFiles/edit_cache.dir
+/Users/weixiang/Downloads/CG2.0/rigid/tp/TP02-RigidSim/TP02-RigidSim/build/CMakeFiles/tpRigid.dir
+/Users/weixiang/Downloads/CG2.0/rigid/tp/TP02-RigidSim/TP02-RigidSim/build/dep/glad/CMakeFiles/rebuild_cache.dir
+/Users/weixiang/Downloads/CG2.0/rigid/tp/TP02-RigidSim/TP02-RigidSim/build/dep/glad/CMakeFiles/edit_cache.dir
+/Users/weixiang/Downloads/CG2.0/rigid/tp/TP02-RigidSim/TP02-RigidSim/build/dep/glad/CMakeFiles/glad.dir
